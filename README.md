@@ -1,2 +1,2 @@
 # Kodular-DescubraONumero
-Trata-se de um game aonde o sistema gera um número aleatório que vai de 0 a 10, e o usuário através de tentativas deve descobrir qual foi o número gerado.
+Trata-se de um game aonde o sistema gera um número aleatório que vai de 0 a 10, e o usuário através de tentativas deve descobrir qual foi o número gerado. Ao enviar o seu "palpite" o jogador recebe uma mensagem informando se o número escolhido pelo sistema é maior, menor ou se ele acertou. Quando o jogador acerta o número, é exibido na tela uma mensagem de parabéns com sons de aplausos indicando que ele descobriu o número correto. O game pode ser reiniciado quantas vezes desejar, sendo necessário somente apertar o botão de sortear que fica no topo da tela.
